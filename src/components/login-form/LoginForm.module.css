@@ -1,0 +1,34 @@
+form {
+	width: 400px;
+	height: auto;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	text-align: center;
+	background-color: azure;
+	padding: 2rem;
+	border-radius: 8px;
+}
+
+input {
+	padding: 5px 10px;
+	width: 100%;
+	border: 1px solid black;
+	border-radius: 4px;
+}
+
+button {
+	padding: 5px 10px;
+}
+
+label {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+	position: relative;
+}
+
+small {
+	color: red;
+	text-align: left;
+}

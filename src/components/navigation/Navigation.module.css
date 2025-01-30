@@ -1,0 +1,14 @@
+.list {
+	margin: 0;
+	padding: 0;
+}
+
+.link {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	color: #656b8f;
+	text-decoration: none;
+	padding: 10px 15px 10px 35px;
+	border-left: 2px solid transparent;
+}
